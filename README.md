@@ -26,13 +26,13 @@ Customer behavior also shows that people actively maximize discount sales, with 
 
 **From a demographic perspective:**
 
-- Education: Graduates represent the largest customer segment.
+**Education:** Graduates represent the largest customer segment.
 
-- Country: Spain emerges as the most popular customer location.
+**Country:** Spain emerges as the most popular customer location.
 
-- Age Group: Customers aged 40–49 dominate, followed closely by those 30–39 and 50–59, indicating that middle-aged consumers are the primary revenue drivers.
+**Age Group:** Customers aged 40–49 dominate, followed closely by those 30–39 and 50–59, indicating that middle-aged consumers are the primary revenue drivers.
 
-- Marital Status: Married customers form the largest group, followed by couples living together and then singles, suggesting that family-oriented households may have higher purchasing power.
+**Marital Status:** Married customers form the largest group, followed by couples living together and then singles, suggesting that family-oriented households may have higher purchasing power.
 
 ## Tools Used
 - Excel: Used for initial data cleaning, formatting, and preparation.
